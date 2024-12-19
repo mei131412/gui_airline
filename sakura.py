@@ -603,7 +603,7 @@ def main():
 
     # Sidebar navigation
     with st.sidebar:
-        st.image("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK-8U0esvPeyL2kA8YFdAKy3gHnjBV5WJShQ&s", use_container_width=True)
+        st.image("https://i.pinimg.com/originals/c7/a4/5d/c7a45d867427e7ad95677123e37fec7f.png", use_container_width=True)
         st.markdown("### Navigation")
         if st.button("🏠 Home"):
             st.session_state.current_page = 'home'
